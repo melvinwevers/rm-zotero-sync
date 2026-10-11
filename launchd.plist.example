@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>com.example.rm-zotero-sync</string>
+  <key>ProgramArguments</key>
+  <array><string>/Users/YOU/projects/rm-zotero-sync/run.sh</string></array>
+  <key>StartInterval</key><integer>1800</integer>
+  <key>RunAtLoad</key><true/>
+  <key>StandardOutPath</key><string>/dev/null</string>
+  <key>StandardErrorPath</key><string>/Users/YOU/Library/Logs/rm-zotero-sync.err.log</string>
+</dict>
+</plist>
